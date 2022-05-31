@@ -1,0 +1,4 @@
+repository "Game Jam Project@local"
+  path "/"
+    br "/main"
+    co "/main"
